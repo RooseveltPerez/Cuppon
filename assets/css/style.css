@@ -1,0 +1,21 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.border-linea {
+    border-bottom: 1px solid #000;
+    margin-bottom: 10px;
+}
+
+.precios {
+    margin-right: 5px;
+    padding-right: 20px;
+}
